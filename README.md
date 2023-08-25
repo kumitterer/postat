@@ -10,7 +10,7 @@ yet. If you want to contribute, please feel free to do so.
 ## Installation
 
 ```bash
-pip install git+https://kumig.it/kumitterer/postat.git
+pip install postat
 ```
 
 ## Usage
